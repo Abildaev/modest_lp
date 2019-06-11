@@ -1,0 +1,11 @@
+{
+  "name": "mad_devs1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Abildaev/Modest-Landing_Page.git",
+  "author": "dastan <abildaev1996@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
