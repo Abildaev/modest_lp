@@ -6,6 +6,6 @@
   "author": "dastan <abildaev1996@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
